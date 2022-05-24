@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1653363151 source:c:\users\dell\desktop\rapidroll\src\baseobj.cpp
+	"BaseObj.h"
+
+1653364483 source:c:\users\dell\desktop\rapidroll\src\bulletobj.cpp
+	"BulletObj.h"
+
+1653363151 source:c:\users\dell\desktop\rapidroll\src\commonfunc.cpp
+	"CommonFunc.h"
+
+1653363151 source:c:\users\dell\desktop\rapidroll\src\commonfunction.cpp
+	"CommonFunction.h"
+	"BaseObj.h"
+	"TextObj.h"
+
+1653363151 source:c:\users\dell\desktop\rapidroll\src\explosionobj.cpp
+	"ExplosionObj.h"
+
+1653363151 source:c:\users\dell\desktop\rapidroll\src\game_map.cpp
+	"game_map.h"
+
+1653363151 source:c:\users\dell\desktop\rapidroll\src\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunction.h"
+
+1653364457 source:c:\users\dell\desktop\rapidroll\src\main.cpp
+	"CommonFunction.h"
+	"BaseObj.h"
+	"game_map.h"
+	"MainObj.h"
+	"ImpTimer.h"
+	"BulletObj.h"
+	"ThreatsObj.h"
+	"ExplosionObj.h"
+	"TextObj.h"
+	<iostream>
+
+1653363151 source:c:\users\dell\desktop\rapidroll\src\mainobj.cpp
+	"MainObj.h"
+	"CommonFunction.h"
+
+1653363151 source:c:\users\dell\desktop\rapidroll\src\textobj.cpp
+	"TextObj.h"
+
+1653363151 source:c:\users\dell\desktop\rapidroll\src\textobject.cpp
+	"TextObject.h"
+
+1653363151 source:c:\users\dell\desktop\rapidroll\src\threatsobj.cpp
+	"ThreatsObj.h"
+
